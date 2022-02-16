@@ -1,7 +1,7 @@
 maxVehiclePerformanceUpgrades = 0 -- Set to 0 to have all the upgrades
 vehicleBaseRepairCost = 600
 vehicleRepairCostMultiplier = 1
-moneyType = 'bank'
+moneyType = 'mechanic'
 
 -- Location Configs
 -- Add locations here
